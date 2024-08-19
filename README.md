@@ -1,4 +1,4 @@
-Project Name ===> Exercises Part 7
+Project Name ===> Ruby - Exercises Part 1
 
 Question Number ===> 7
 
@@ -11,3 +11,5 @@ Example ===> Write A Program That Takes A String And A Word From The User And Ch
 Description Of Files:
 
 For Run ===> ruby practice_7.rb
+
+# Finish
